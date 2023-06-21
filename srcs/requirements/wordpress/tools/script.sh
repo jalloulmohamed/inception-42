@@ -32,4 +32,4 @@ wp plugin update --all --allow-root
 
 fi
 
-/usr/sbin/php-fpm7.4 -F
+/usr/sbin/php-fpm7.4 -F 
